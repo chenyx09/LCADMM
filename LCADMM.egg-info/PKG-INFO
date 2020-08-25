@@ -1,0 +1,14 @@
+Metadata-Version: 1.2
+Name: LCADMM
+Version: 0.0.1
+Summary: Linear constrained ADMM
+Home-page: https://github.com/chenyx09/LCADMM
+Author: Yuxiao Chen
+Author-email: chenyx@caltech.edu
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
